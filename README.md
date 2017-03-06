@@ -20,3 +20,9 @@ The controller will be in the shape of an octopus with each pair of legs being a
 ## Inspiration
 http://shakethatbutton.com/spacebattleship-shield/
 Liked the basic idea of a 2D game as I'll have to make the art myself as well as the idea of the ship being the player you play in the game so the controller is the character. I took this design and modified it into my octopus idea. 
+
+http://shakethatbutton.com/slam-of-the-arcade-age/
+Same with this game as the controller is basically what you play as in the game.
+
+## Market Research
+From what I've researched into I sturggled to find any 2D side scrollers with a unique custom controller where the controller is the same as the character. I think it's quite a unique idea and think if made correctly can be a fun game to play with your friends and see who can get the highest score! 
