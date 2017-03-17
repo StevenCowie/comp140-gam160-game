@@ -20,13 +20,16 @@ The controller idea I have in mind is very simple so anyone can grasp how to use
 
 ## Inspiration
 http://shakethatbutton.com/spacebattleship-shield/
-Liked the basic idea of a 2D game as I'll have to make the art myself as well as the idea of the ship being the player you play in the game so the controller is the character. I took this design and modified it into my octopus idea. 
+Liked the basic idea of a 2D game as I'll have to make the art myself as well as the idea of the ship being the player you play in the game so the controller is the character. I took this design and modified it and that'a when I thought of my octopus idea. I really liked the simplistic feel of the controller and how easy it made the game to play. 
 
 http://shakethatbutton.com/slam-of-the-arcade-age/
-Same with this game as the controller is basically what you play as in the game.
+Same with this game as the controller is basically what you play as in the game. Also again yet a very simplistic and easy game to play which appeals to lots of people.
 
 Atari 2600
-Simple joystick and button, very well known controller, easy to grasp.
+Simple joystick and button, very well known controller, easy to grasp. This is the original button and joystick controller (that I could find anyway) which has done very well inspiring probably hundreds of other controller out there. With 1 button and a joystick it's very easy to grasp for people of all ages and games can tend to be quite simplistic on it.
 
 ## Market Research
 From what I've researched into I sturggled to find any 2D side scrollers with a unique custom controller where the controller is the same as the character. However the simplistic controller with a joystick and a button have been around for a long time the first example I could find was the Atari 2600 which was highly successful and sold millions of units worldwide. To this day today they still make remakes which can plug into your TV and play a wide range of games on. People still like the retro feel and love to show their kids what they used to have. 2D side scrollers are popular games even to this day with the most well known one being Mario which is almost a house hold name. 
+
+## Revised Controller
+Made my controller revisions before. My original controller idea was the controller still being in the shape of the octopus however I wanted 7/8 buttons, one for each lef of the octopus with each having a different function. I realised this was a bad idea as 7/8 buttons would have been hard to play on and I didn't have enough functions for them so I simplified my idea to a joystick for movement and a button to shoot ink making it easy to play.
